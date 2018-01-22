@@ -1,5 +1,7 @@
 # Emoji Text
 
+Emojis en formato Unicode.
+
 ```
 ʘ‿ʘ
 Innocent face 
