@@ -275,8 +275,3 @@ dislike / depressed
 
 ```
 
-Note:
-Los emojis anteriores consisten en caracteres Unicode y no en caracteres ASCII. Descubrí que la gente a menudo busca ASCII en lugar de Unicode sin entender la diferencia, así que he mantenido intacto el nombre del repositorio por razones de SEO. Ver https://en.wikipedia.org/wiki/ASCII v. https://en.wikipedia.org/wiki/Unicode
-
-## Otras cosas geniales - AI JS Bots
-Un nuevo marco de JS para crear su propio asistente de AI web como Alexa, Google Home o Siri que le permite crear una experiencia interactiva impulsada por la voz. Por favor, míralo - [Demo](https://dysfunc.github.io/eleven/) / [Source](https://github.com/dysfunc/eleven)
