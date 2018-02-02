@@ -1,6 +1,6 @@
 # Emoji Text
 
-Emojis en formato Unicode.
+Emojis en formato Unicode. ^^
 
 ```
 ʘ‿ʘ
